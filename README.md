@@ -61,6 +61,7 @@ project/
 ```bash
 git clone https://github.com/mohini93/ez.git
 cd ez
+
 ##🧪 Step 2: Create & Activate Virtual Environment
 bash
 Copy
